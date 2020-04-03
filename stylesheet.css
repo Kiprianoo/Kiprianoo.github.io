@@ -22,3 +22,63 @@ height: 40vh;
 display:block;
 margin: auto;
 }
+
+#servises {
+    text-align: center;
+}
+
+#servises h2{
+font-size: 40px;
+}
+
+#servises h3{
+    font-size: 23px;
+    }
+
+#servises p{
+        font-size: 16px;
+        }
+
+#about {
+text-align: center;
+background-color: lightblue;
+padding: 10px;
+margin-top: 30px;
+        }
+#about h3 {
+    margin: 0;
+    font-size: 25px;
+}
+#face {
+width: 80px;
+float: left;
+margin: 10px;
+
+}
+.hireNow {
+    color: red;
+}
+
+.social{
+    display: flex;
+    margin: 10px 0;
+}
+.iconContainer {
+    width: 20%;
+}
+.textContainer {
+    width: 80%;
+}
+.myRed{
+    color: red;
+}
+.footerlink{
+    color: white;
+}
+.footerHeading{
+    font-size: 18px;
+    margin: 10px 0;
+}
+.footerP {
+    margin: 0;
+}
